@@ -6,24 +6,24 @@
 ![Dream Plus Theme](https://github.com/UtkarshVerma/hugo-dream-plus/blob/master/images/screenshot.png)
 This theme is an upgraded version of the [Dream Theme](https://github.com/g1eny0ung/hugo-theme-dream) by [Yue Yang](https://github.com/g1eny0ung) and contains tons of new features such as:
 
-* "Cards" and "Posts" views for the home page
-* twemoji rendering
-* Table of contents for posts
-* Hugo image processing for faster loading
-* Random image background
-* Multiple author support
-* Disqus
-* Sidebar
-* Share card below posts
-* Licenses for posts
-* Device detection, that is whether the client device is a PC or phone
-* About section can be written in MarkDown
-* Custom 404 pages can be written in MarkDown
-* Custom Favicon
-* RSS Button
-* Custom CSS and JS can be used without modifying the theme
-* More social icons
-* Shorte.st website script, and a lot of other minor improvements
+* "Cards" and "Posts" views for the home page.
+* twemoji rendering.
+* Table of contents for posts.
+* Hugo image processing for faster loading.
+* Random image background.
+* Multiple author support.
+* Disqus.
+* Sidebar.
+* Share card below posts.
+* Licenses for posts.
+* Device detection, that is whether the client device is a PC or phone.
+* About section can be written in MarkDown.
+* Custom 404 pages can be written in MarkDown.
+* Custom Favicon.
+* RSS Button.
+* Custom CSS and JS can be used without modifying the theme.
+* More social icons.
+* Shorte.st website script, and a lot of other minor improvements.
 
 This theme can be used for two purposes:
 
